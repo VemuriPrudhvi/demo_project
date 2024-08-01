@@ -10,8 +10,8 @@ pipeline {
         stage('config') {
             steps {
                bat '''
-               git config user.name "harish"
-               git config user.email "harishcloud1810@gmail.com"
+               git config user.name "vemuri prudhvi"
+               git config user.email "vemuriprudhvi3@gmail.com"
                  '''
            }
         }
